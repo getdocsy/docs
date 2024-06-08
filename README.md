@@ -7,7 +7,7 @@ This is the source for [docs.getdocsy.com](https://docs.getdocsy.com/).
 You need mkdocs and poetry installed.
 
 ```
-poetry install
+poetry install --no-root
 poetry shell
 mkdocs serve
 ```
