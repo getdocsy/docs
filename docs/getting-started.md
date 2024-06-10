@@ -6,7 +6,7 @@ Go to [getdocsy.com](https://getdocsy.com). The website has a Slack button that 
 
 ## Install Docsy GitHub App
 
-Choose the repository that docsy will need access to.
+Go to the [Docsy GitHub App page](https://github.com/apps/getdocsy) and follow the instructions there. You will need to choose the repository that Docsy will need access to.
 
 ## Activate your Docsy license
 
