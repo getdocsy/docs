@@ -26,4 +26,5 @@ jobs:
             mkdocs-material-
       - uses: abatilo/actions-poetry@v3.0.0
       - run: poetry install
+      - run: poetry shell
       - run: mkdocs gh-deploy --force
