@@ -1,4 +1,3 @@
-```markdown
 # Getting Started
 
 ## Install the Docsy Slack App
@@ -16,4 +15,3 @@ Go to the [Docsy GitHub App page](https://github.com/apps/getdocsy) and follow t
 ## Activate your Docsy license
 
 Share necessary information with us. We will activate your license and reach out to you.
-```
