@@ -25,6 +25,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - uses: abatilo/actions-poetry@v3.0.0
-      - run: poetry install
-      - run: poetry shell
+      - run: poetry install  --no-interaction --no-root
       - run: mkdocs gh-deploy --force
