@@ -24,5 +24,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
+      - uses: abatilo/actions-poetry@v3.0.0
+      - run: poetry install
       - run: mkdocs gh-deploy --force

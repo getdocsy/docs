@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 mkdocs-material = "^9.5.26"
+mkdocs-git-revision-date-localized-plugin = "^1.2.6"
+mkdocs-git-committers-plugin-2 = "^2.3.0"
 
 
 [build-system]
