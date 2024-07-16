@@ -12,6 +12,12 @@ Go to the [Docsy GitHub App page](https://github.com/apps/getdocsy) and follow t
 
 ![Install GitHub App](assets/install-github-app.png)
 
+## Configure Docsy via Home App
+
+You can find the app home in the Apps section of Slack.
+
+![Docsy Home App](assets/image.png)
+
 ## Activate your Docsy license
 
 Share necessary information with us. We will activate your license and reach out to you.
