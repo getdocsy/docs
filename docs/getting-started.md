@@ -12,7 +12,8 @@ Go to the [Docsy GitHub App page](https://github.com/apps/getdocsy) and follow t
 
 ![Install GitHub App](assets/install-github-app.png)
 
-## Configure your App Home
+## Configure Docsy in the Slack App Home
 
-After installing the Docsy Slack App, configure your App Home settings to personalize your experience.
+You can configure Docsy via the Slack App Home. Go to the App section in Slack, find Docsy, and access the configuration tab.
 
+![Configure Docsy](assets/app-home-docsy-configuration_0_SCR-20240721-mupt.png)
