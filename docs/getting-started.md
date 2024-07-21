@@ -17,7 +17,3 @@ Go to the [Docsy GitHub App page](https://github.com/apps/getdocsy) and follow t
 You can configure Docsy via the Slack App Home. Go to the App section in Slack, find Docsy, and access the configuration tab.
 
 ![Configure Docsy](assets/app-home-docsy-configuration_0_SCR-20240721-mupt.png)
-
-## Activate your Docsy license
-
-Share necessary information with us. We will activate your license and reach out to you.
