@@ -30,3 +30,8 @@ plugins:
       repository: getdocsy/docs
       branch: main
   - search
+# Page ordering
+nav:
+  - 'index.md'
+  - 'getting-started.md'
+  - 'data-privacy.md'
