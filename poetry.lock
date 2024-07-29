@@ -311,6 +311,21 @@ files = [
 ]
 
 [[package]]
+name = "material-plausible-plugin"
+version = "0.2.0"
+description = "Plausible Analytics implementation for Material for MkDocs"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "material_plausible_plugin-0.2.0-py3-none-any.whl", hash = "sha256:b7dc866b358475d940c5c61f56f86c400b9c1e73ffa2b06819207df38f34fcf4"},
+    {file = "material_plausible_plugin-0.2.0.tar.gz", hash = "sha256:9416d6313ff9ddeec25e14e9c4baac1341511263706a5997bd714d552992d752"},
+]
+
+[package.dependencies]
+mkdocs = "*"
+mkdocs-material = "*"
+
+[[package]]
 name = "mergedeep"
 version = "1.3.4"
 description = "A deep merge function for 🐍."
@@ -814,4 +829,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "bfcaaeb66f1560b851262c5e60b3939a37d8c90f1df5b3a3832b72225f7a0c98"
+content-hash = "1ee1820a0dc4f6aaf1968e295af80895df6a1b3f45db62778030939841c21d2a"

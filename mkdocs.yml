@@ -24,6 +24,7 @@ theme:
 repo_url: https://github.com/getdocsy/docs
 edit_uri: "edit/main/docs/"
 plugins:
+  - material-plausible
   - git-revision-date-localized:
       enable_creation_date: true
   - git-committers:
@@ -35,3 +36,8 @@ nav:
   - 'index.md'
   - 'getting-started.md'
   - 'data-privacy.md'
+extra:
+  analytics:
+    provider: plausible
+    domain: docs.getdocsy.com
+    src: "https://plausible.sonnenhof-zieger.de/js/script.js"
