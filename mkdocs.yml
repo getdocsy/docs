@@ -3,6 +3,8 @@ site_name: Docsy Public Docs
 site_url: https://docs.getdocsy.com
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   icon:
     repo: fontawesome/brands/github
   features:
