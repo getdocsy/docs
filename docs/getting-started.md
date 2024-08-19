@@ -17,3 +17,7 @@ Go to the [Docsy GitHub App page](https://github.com/apps/getdocsy) and follow t
 You can configure Docsy via the Slack App Home. Go to the App section in Slack, find Docsy, and access the configuration tab.
 
 ![Configure Docsy](assets/app-home-docsy-configuration_0_SCR-20240721-mupt.png)
+
+## Testing Docsy
+
+After you added Docsy to a channel, mention @Docsy in a thread. If everything is properly set up, Docsy will offer to create a PR for you.
