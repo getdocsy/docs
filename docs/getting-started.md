@@ -20,4 +20,4 @@ You can configure Docsy via the Slack App Home. Go to the App section in Slack, 
 
 ## Testing Docsy
 
-After you added Docsy to a channel, mention <@U077MGEHWKT> in a thread. If everything is properly set up, Docsy will offer to create a PR for you.
+After you added Docsy to a channel, mention @Docsy in a thread. If everything is properly set up, Docsy will offer to create a PR for you.
