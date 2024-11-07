@@ -81,6 +81,14 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  scripts: [
+    {
+      src: 'https://plausible.sonnenhof-zieger.de/js/script.js',
+      defer: true,
+      'data-domain': 'docs.getdocsy.com',
+    },
+  ],
 };
 
 export default config;
