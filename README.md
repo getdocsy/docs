@@ -1,13 +1,12 @@
-# Docsy Public Docs
+# Public docs for Docsy
 
-This is the source for [docs.getdocsy.com](https://docs.getdocsy.com/).
+This is the source for [docs.getdocsy.com](https://docs.getdocsy.com).
 
-## Local Development
+Based on docusaurus.
 
-You need mkdocs and poetry installed.
+## Local development
 
 ```
-poetry install --no-root
-poetry shell
-mkdocs serve
+npm install
+npm run start
 ```
