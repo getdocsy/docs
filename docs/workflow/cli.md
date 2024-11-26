@@ -24,8 +24,8 @@ docsy init
 
 ## Suggest changes
 
-The `suggest` command handles user documentation changes.
+The `suggest` command handles user documentation changes. You can specify a specific commit reference or hash to use as a source by using the `--commit` option.
 
 ```bash
-docsy suggest
+docsy suggest --commit <commit_hash>
 ```

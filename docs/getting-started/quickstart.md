@@ -41,7 +41,7 @@ docsy suggest
 
 Docsy suggests changes to the documentation based on the changes in your source code.
 
-By default, Docsy will compare the current branch with the default branch and suggest changes to the documentation based on the differences.
+By default, Docsy compares the current branch with the default branch and suggests changes to the documentation based on the differences.
 
 You can also specify a single commit via the `--commit` flag:
 
@@ -52,5 +52,7 @@ git log HEAD~10..HEAD
 # suggest changes based on a single commit
 docsy suggest --commit <commit>
 ```
+
+If a commit is specified, Docsy uses that commit directly to suggest changes.
 
 Docsy can apply suggestions directly to the documentation if the repository is clean. It identifies which files need updating based on the code changes and writes the updated content back to those files.
