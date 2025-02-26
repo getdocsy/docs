@@ -18,13 +18,11 @@ Add the Docsy Slack App to your workspace via the button below.
 <p>
 </p>
 
-
 Slack will ask you to authorize the installation.
 
 ![Install Slack App](install-slack-app.png)
 
 After installation, add Docsy to channels by @-mentioning it.
-
 
 ## Configure Docsy in the Slack App Home
 
@@ -43,4 +41,4 @@ Besides mentioning Docsy in threads within public channels, you can also chat wi
 2. Describe what you want to add to the documentation.
 3. Docsy may ask further questions in a thread of the original message. Answer those questions within the thread to help Docsy come up with a useful suggestion.
 4. Docsy offers to create a pull request with the information found in the thread.  
-
+5. Docsy will include a link to the PR it creates, allowing you to easily access it.
