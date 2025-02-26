@@ -5,7 +5,7 @@ slug: /
 
 # Docsy
 
-Docsy is a AI user documentation technology that helps developers and product people keep user documentation in sync with their product.
+Docsy is an AI user documentation technology that helps developers and product people keep user documentation in sync with their product and reflect customer feedback.
 
 ## What is Docsy
 
@@ -18,4 +18,3 @@ Docsy is a AI user documentation technology that helps developers and product pe
 
 - A documentation platform with WYSIWYG editor;
 - A replacement for your existing documentation framework.
-
