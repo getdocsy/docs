@@ -8,11 +8,7 @@ Docsy CLI is not available publicly yet. Coming soon.
 
 ## Authenticate
 
-Docsy CLI requires access to the OpenAI API. Set your OpenAI API key as `OPENAI_API_KEY` environment variable.
-
-```bash
-export OPENAI_API_KEY=sk-...
-```
+The CLI will not require authentication.
 
 ## Initialize your project
 
