@@ -11,7 +11,7 @@ As of today, Docsy is a Slack App for opening pull requests from Slack threads.
 
 More to come!
 
-![Image Overview](assets/image-overview_0_image.png)
+![Image Overview](../assets/image-overview_0_image.png)
 
 ## What Docsy isn't
 
