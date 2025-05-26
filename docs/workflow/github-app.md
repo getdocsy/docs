@@ -13,3 +13,5 @@ Go to the [Docsy GitHub App page](https://github.com/apps/getdocsy) and follow t
 When Docsy is installed in GitHub, it can enhance the pull request review process. Below is an example of how it looks when Docsy reviews a pull request:
 
 ![Pull Request Review Example](pull-request-reviews.png)
+
+**Note:** Pull request reviews are optional and currently in beta. You do not have to use them if you prefer not to.
