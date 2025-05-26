@@ -1,8 +1,8 @@
 # GitHub App
 
-Docsy offers a GitHub App that allows Docsy engine to interact with your repositories independently from the CLI or CI/CD. 
+Docsy offers a GitHub App that allows Docsy engine to interact with your repositories independently from the CLI or CI/CD.
 
-**Note:** The CLI feature was an experimental tool that has been discontinued and is no longer available.
+**Note:** The CLI feature was an experimental tool that has been discontinued and is no longer available. It was removed to avoid confusion for users.
 
 ## Install Docsy GitHub App
 
