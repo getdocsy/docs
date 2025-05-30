@@ -5,7 +5,7 @@ slug: /
 
 # Docsy
 
-Docsy is an AI documentation agent. Docsy helps developers and product people keep user documentation in sync with their product. As of today, Docsy supports Slack and GitHub.
+Docsy is an AI documentation agent. Docsy helps developers and product people keep user documentation in sync with their product. As of today, Docsy supports [Slack](/workflow/slack) and [GitHub](/workflow/github-app).
 
 ## See Docsy in Action
 
@@ -15,12 +15,6 @@ Docsy is an AI documentation agent. Docsy helps developers and product people ke
     Your browser does not support the video tag.
   </video>
 </div>
-
-## Learn More
-
-You can learn more about our integrations:
-- [Slack Workflow](link-to-slack-workflow-page)
-- [Docsy Workflow](link-to-docsy-workflow-page)
 
 ## What Docsy isn't
 
