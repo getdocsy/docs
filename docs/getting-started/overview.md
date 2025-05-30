@@ -9,13 +9,18 @@ Docsy is an AI documentation agent. Docsy helps developers and product people ke
 
 ## See Docsy in Action
 
-
 <div style={{ maxWidth: '100%', overflow: 'hidden' }}>
   <video style={{ width: '100%', height: 'auto' }} controls>
     <source src="/videos/docsy-in-81-seconds.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 </div>
+
+## Learn More
+
+You can learn more about our integrations:
+- [Slack Workflow](link-to-slack-workflow-page)
+- [Docsy Workflow](link-to-docsy-workflow-page)
 
 ## What Docsy isn't
 
