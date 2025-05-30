@@ -1,15 +1,7 @@
 # Slack
 
 Docsy offers a Slack App that allows you to open pull requests for your documentation directly from Slack.
-
-## See Docsy in Action
-
-<div style={{ textAlign: 'center' }}>
-  <video width="560" height="315" controls>
-    <source src="/videos/docsy-in-81-seconds.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video>
-</div>
+![Image Overview](/img/image-overview_0_image.png)
 
 ## Install the Docsy Slack App
 

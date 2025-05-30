@@ -5,11 +5,17 @@ slug: /
 
 # Docsy
 
-Docsy is an AI user documentation technology that helps developers and product people keep user documentation in sync with their product.
+Docsy is an AI documentation agent. Docsy helps developers and product people keep user documentation in sync with their product. As of today, Docsy supports Slack and GitHub.
 
-As of today, Docsy is a Slack app that opens pull requests from Slack threads, but there is more to come!
+## See Docsy in Action
 
-![Image Overview](../assets/image-overview_0_image.png)
+
+<div style={{ maxWidth: '100%', overflow: 'hidden' }}>
+  <video style={{ width: '100%', height: 'auto' }} controls>
+    <source src="/videos/docsy-in-81-seconds.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## What Docsy isn't
 
