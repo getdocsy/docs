@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Docsy',
-  tagline: 'AI user documentation for developers and product people',
+  tagline: 'Create pull requests from Slack threads',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
