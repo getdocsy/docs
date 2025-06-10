@@ -5,12 +5,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Getting Started',
-      items: ['getting-started/overview'],
-    },
-    {
-      type: 'category',
-      label: 'Workflow',
-      items: ['workflow/github-app', 'workflow/slack'],
+      items: ['getting-started/overview','getting-started/github', 'getting-started/slack'],
     },
   ],
 };

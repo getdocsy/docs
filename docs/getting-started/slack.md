@@ -1,4 +1,4 @@
-# Slack
+# Setup Slack
 
 Docsy offers a Slack App that allows you to open pull requests for your documentation directly from Slack.
 ![Image Overview](/img/image-overview_0_image.png)
@@ -31,7 +31,7 @@ You can configure Docsy via the Slack App Home. Go to the App section in Slack, 
 
 ![Configure Docsy](app-home-configuration.png)
 
-## Testing Docsy
+## Test Docsy
 
 After you added Docsy to a channel, mention @Docsy in a thread. If everything is properly set up, Docsy will offer to create a PR for you.
 
