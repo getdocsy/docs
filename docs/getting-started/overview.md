@@ -5,7 +5,7 @@ slug: /
 
 # Docsy
 
-Docsy is a Slack bot that translates Slack threads into pull requests against documentation repositories. To get started, setup [GitHub](/getting-started/github) and [Slack](/getting-started/slack).
+Docsy is a Slack bot that translates Slack threads into pull requests against documentation repositories. To get started, setup [GitHub](/getting-started/git) and [Slack](/getting-started/slack).
 
 ## See Docsy in Action
 
